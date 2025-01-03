@@ -1,0 +1,35 @@
+
+
+
+
+Churn:
+https://dunnsolutions.com
+
+Demand:
+https://accelgrid.com/benefits-of-demand-forecasting/
+
+
+Credit card:
+https://ai-journey.com/2019/06/credit-card-fraud-detection/
+
+news:
+https://medium.com/@prasannaraut/extract-market-sentiment-with-google-news-and-python-nltk-eb02b8c4a04e
+
+Fault detection:
+https://www.cloudmantra.net/blog/fault-detection-using-machine-learning-techniques/
+
+item:
+https://lifesight.io/blog/ecommerce-product-recommendation-use-cases/
+
+Ab1:
+https://www.mailjet.com/blog/email-best-practices/ab-testing-beginners-guide-for-email-marketing/
+
+Ab2:
+https://www.e-shot.net/insights/blog/email-a-b-testing-best-practices
+
+
+AI chatbot:
+https://easywithai.com/ai-finance-tools/onesta/
+
+Movie:
+https://9gag.com/gag/an4wz8q
